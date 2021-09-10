@@ -1,6 +1,6 @@
 <h3 align="center">Galeria de imagens com HTML, CSS e jQuery.</h3>
 
-<img src="https://github.com/thiago520/CarrouselReflexivo/images/banner.jpg">
+<img src="https://github.com/thiago520/CarrouselReflexivo/blob/main/images/banner.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
